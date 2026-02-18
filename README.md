@@ -6,13 +6,13 @@ Each project combines data cleaning, exploratory analysis, statistical modeling,
 
 ---
 
-##📌 Project 1 — Does Money Really Buy Happiness?
+## 📌 Project 1 — Does Money Really Buy Happiness?
 
 This project examines the relationship between national income and life satisfaction across countries using data from:
 * The World Happiness Report
 * The World Bank (GDP per capita, PPP)
 
-Detailed blog post: [![Medium](https://img.shields.io/badge/Medium-Read%20Article-black?logo=medium)](...) 
+Detailed blog post: [![Medium](https://img.shields.io/badge/Medium-Read%20Article-black?logo=medium)](https://medium.com/p/82712043c27c?postPublishedType=initial) 
 
 The analysis explores:
 * The correlation between income and happiness
