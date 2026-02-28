@@ -36,7 +36,7 @@ The findings show that income strongly predicts happiness, but it does not tell 
 This project explores global patterns of life satisfaction using data from:
 * The World Happiness Report (2011–2024)
 
-Detailed blog post:  [![Medium](https://img.shields.io/badge/Medium-Read%20Article-black?logo=medium)] (https://medium.com/@bskky001/the-geography-of-happiness-47537a1c91d7)
+Detailed blog post:  [![Medium](https://img.shields.io/badge/Medium-Read%20Article-black?logo=medium)](https://medium.com/@bskky001/the-geography-of-happiness-47537a1c91d7)
 
 ### 🔍 What This Project Examines
 * Long-term average happiness by country
