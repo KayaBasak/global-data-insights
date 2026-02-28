@@ -12,7 +12,7 @@ This project examines the relationship between national income and life satisfac
 * The World Happiness Report
 * The World Bank (GDP per capita, PPP)
 
-Detailed blog post: [![Medium](https://img.shields.io/badge/Medium-Read%20Article-black?logo=medium)](https://medium.com/p/82712043c27c?postPublishedType=initial) 
+Detailed blog post: [![Medium](https://img.shields.io/badge/Medium-Read%20Article-black?logo=medium)](https://medium.com/@bskky001/does-money-really-buy-happiness-82712043c27c) 
 
 ### 🔍 What This Project Examines
 * The correlation between income and happiness
