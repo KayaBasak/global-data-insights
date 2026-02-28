@@ -55,8 +55,8 @@ Countries with higher average happiness tend to exhibit lower volatility over ti
 * Python
 * pandas
 * matplotlib
-* seaborn / geopandas (for visualizations)
-* numpy
+* plotly
+* geopandas
 
 ---
 
